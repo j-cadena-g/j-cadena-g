@@ -56,10 +56,4 @@ $ traceroute james
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,pnpm,cloudflare,vercel,linux&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Node.js, pnpm, Cloudflare, Vercel, Linux">
 </p>
 
-### Right now
-
-- Moving deeper into security: architecture, governance, and risk
-- Studying for the CISSP
-- Shipping cutman for the fantasy football season
-
 <sub>Hiring for network, security, or infrastructure roles? <a href="https://james.cadena.sh/#contact">Get in touch</a>. Not hiring? Still happy to talk tech and AI.</sub>
