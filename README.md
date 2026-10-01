@@ -21,15 +21,6 @@ $ traceroute james
  3  security          architecture, governance, risk     <- heading here
 ```
 
-### What I'm building
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**amigo**](https://github.com/j-cadena-g/amigo) | Open source, self-hosted household app for budgeting and grocery tracking. | React Router, pnpm + Turborepo, AGPL-3.0 |
-| [**cutman**](https://github.com/j-cadena-g/cutman) | Weekly recaps and a running season story for your Sleeper fantasy league. | Cloudflare Workers, Durable Objects, D1, Clerk |
-| [**cadena.sh**](https://github.com/j-cadena-g/cadena-sh) | My personal site, with a live trace of your connection through Vercel's edge and a contact form locked down with a nonce-based CSP, BotID, and 1Password-backed secrets. | Next.js 16, React 19, Tailwind v4 |
-| [**cadenalabs.io**](https://github.com/cadena-labs/cadenalabs-io) | Open source site for Cadena Labs, my studio in London, Ontario, with a contact form on Cloudflare Email Service and Turnstile. | Cloudflare Workers, React Router v7, Tailwind v4 |
-
 ### Open source contributions
 
 **[apius-tech/Palo-MCP](https://github.com/apius-tech/Palo-MCP)**: an MCP server that lets Claude, Cursor, and other AI clients work with PAN-OS firewalls and Panorama. My merged PRs:
@@ -39,6 +30,15 @@ $ traceroute james
 - [Sync README accuracy for tests, tools, and security reporting](https://github.com/apius-tech/Palo-MCP/pull/35)
 - [Fix API key generation links in the README](https://github.com/apius-tech/Palo-MCP/pull/49)
 - [Correct the MIT license badge](https://github.com/apius-tech/Palo-MCP/pull/24)
+
+### My side projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**amigo**](https://github.com/j-cadena-g/amigo) | Open source, self-hosted household app for budgeting and grocery tracking. | React Router, pnpm + Turborepo, AGPL-3.0 |
+| [**cutman**](https://github.com/j-cadena-g/cutman) | Weekly recaps and a running season story for your Sleeper fantasy league. | Cloudflare Workers, Durable Objects, D1, Clerk |
+| [**cadena.sh**](https://github.com/j-cadena-g/cadena-sh) | My personal site, with a live trace of your connection through Vercel's edge and a contact form locked down with a nonce-based CSP, BotID, and 1Password-backed secrets. | Next.js 16, React 19, Tailwind v4 |
+| [**cadenalabs.io**](https://github.com/cadena-labs/cadenalabs-io) | Open source site for Cadena Labs, my studio in London, Ontario, with a contact form on Cloudflare Email Service and Turnstile. | Cloudflare Workers, React Router v7, Tailwind v4 |
 
 ### Day job toolbox
 
